@@ -1,0 +1,43 @@
+{
+   "DATA": [
+      {
+         "id": "1",
+         "category": "Truck",
+         "title": "2. CANTER LOSBAK BUDESIGN",
+         "image": "file:///android_asset/2. CANTER LOSBAK BUDESIGN.jpg",
+         "link_mods": "https://www.mediafire.com/file/fkaomcd9g30m68n/2.+CANTER+LOSBAK+BUDESIGN.bussidmod/file",
+         "link_livery": ""
+      },
+      {
+         "id": "2",
+         "category": "Truck",
+         "title": "BERPW LOSBAK PELK STANDAR DOP",
+         "image": "file:///android_asset/BERPW LOSBAK PELK STANDAR DOP.jpg",
+         "link_mods": "https://www.mediafire.com/file/yrur96v8e48em7r/BERPW+LOSBAK+PELK+STANDAR+DOP.rar/file",
+         "link_livery": ""
+      },
+      {
+         "id": "3",
+         "category": "Truck",
+         "title": "Canter flatbet",
+         "image": "file:///android_asset/Canter flatbet.jpg",
+         "link_mods": "https://www.mediafire.com/file/h566qcpz4goeoh0/Canter+flatbet.zip/file",
+         "link_livery": ""
+      },
+      {
+         "id": "4",
+         "category": "Truck",
+         "title": "FIX CANTER LOSBAK V2 BUDESIGN",
+         "image": "file:///android_asset/FIX CANTER LOSBAK V2 BUDESIGN.jpg",
+         "link_mods": "https://www.mediafire.com/file/rqn0jqoggjevtwe/FIX+CANTER+LOSBAK+V2+BUDESIGN.rar/file",
+         "link_livery": ""
+      },
+      {
+         "id": "5",
+         "category": "Truck",
+         "title": "Mod Canter Losbak No Pw",
+         "image": "file:///android_asset/Mod Canter Losbak No Pw.jpg",
+         "link_mods": "https://www.mediafire.com/file/sfoll32o0wn4r2p/Mod+Canter+Losbak+No+Pw.7z/file",
+         "link_livery": ""
+      }
+   ]
